@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Node
+node_modules/
+
+# Android
+.gradle
+/local.properties
+*.iml
+.idea/
+build/
+captures/
+
+# iOS
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj
+Pods/
+DerivedData/
